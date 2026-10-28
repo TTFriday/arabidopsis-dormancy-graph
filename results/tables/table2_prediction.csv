@@ -1,0 +1,8 @@
+Model,CV Pearson r,CV Spearman,CV MAE (days),External Pearson,External Spearman
+SNP-GBLUP,0.675 ± 0.035,0.656,21.0,0.454,0.471
+Haplotype block kernel,0.669 ± 0.046,0.647,21.0,0.466,0.405
+Graph kernel (SSL),0.670 ± 0.046,0.649,21.1,—,—
+Dual SNP + block kernel,0.695 ± 0.032,0.683,20.3,0.485,0.444
+Triple kernel,0.697 ± 0.032,0.687,20.3,—,—
+Sample embedding + ridge,0.445 ± 0.039,0.392,27.9,—,—
+Graph kernel (random init),0.659 ± 0.047,0.621,21.4,—,—

@@ -1,0 +1,58 @@
+{
+  "n_known": 58,
+  "n_blocks": 8589,
+  "raw": {
+    "mean_percentile": 42.04074176673451,
+    "median_percentile": 36.75049481895448,
+    "min_percentile": 0.41914076143904994,
+    "p_mean_permutation": 0.03879806009699515,
+    "top1_count": 2,
+    "top1_expected": 0.58,
+    "top1_p": 0.11469426528673567,
+    "top5_count": 5,
+    "top5_expected": 2.9000000000000004,
+    "top5_p": 0.1591920403979801,
+    "top10_count": 9,
+    "top10_expected": 5.800000000000001,
+    "top10_p": 0.12364381780910955
+  },
+  "graph": {
+    "mean_percentile": 41.45518927577776,
+    "median_percentile": 42.67667947374549,
+    "min_percentile": 0.36092676679473745,
+    "p_mean_permutation": 0.0231988400579971,
+    "top1_count": 2,
+    "top1_expected": 0.58,
+    "top1_p": 0.11269436528173592,
+    "top5_count": 7,
+    "top5_expected": 2.9000000000000004,
+    "top5_p": 0.024898755062246886,
+    "top10_count": 11,
+    "top10_expected": 5.800000000000001,
+    "top10_p": 0.02589870506474676
+  },
+  "embedding": {
+    "mean_percentile": 43.86203684745123,
+    "median_percentile": 42.46128769356153,
+    "min_percentile": 1.1060658982419374,
+    "p_mean_permutation": 0.0855957202139893,
+    "top1_count": 0,
+    "top1_expected": 0.58,
+    "top1_p": 1.0,
+    "top5_count": 5,
+    "top5_expected": 2.9000000000000004,
+    "top5_p": 0.1641417929103545,
+    "top10_count": 8,
+    "top10_expected": 5.800000000000001,
+    "top10_p": 0.22258887055647217
+  },
+  "dog1": {
+    "block_id": 7960,
+    "pct_raw": 0.4657119571544999,
+    "pct_graph": 4.552334381185237,
+    "pct_embedding": 1.2690650832460124,
+    "p_raw": 0.0039997176210735,
+    "p_graph": 0.0530291017366805,
+    "p_embedding": 0.0141035937406662
+  }
+}

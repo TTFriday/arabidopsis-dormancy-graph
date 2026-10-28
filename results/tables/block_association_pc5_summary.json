@@ -1,0 +1,150 @@
+{
+  "model": "OLS with intercept + PC1-5; standardised DSDS50",
+  "n": 83,
+  "n_blocks": 8589,
+  "fwer_raw_minp": 0.13086913086913088,
+  "fwer_raw_maxq": 0.12087912087912088,
+  "rotation_minp_median": 3.6899919107696134e-05,
+  "rotation_maxq_median": 2318.8274405967286,
+  "raw": {
+    "min_p": 1.3485167930641932e-06,
+    "n_p_0.01": 85,
+    "n_fdr_0.05": 1,
+    "n_fdr_0.10": 1,
+    "top_block": 1995
+  },
+  "graph": {
+    "min_p": 8.57256380074444e-06,
+    "n_p_0.01": 94,
+    "n_fdr_0.05": 0,
+    "n_fdr_0.10": 1,
+    "top_block": 1994
+  },
+  "embedding": {
+    "min_p": 8.245498712401662e-06,
+    "n_p_0.01": 71,
+    "n_fdr_0.05": 0,
+    "n_fdr_0.10": 1,
+    "top_block": 1995
+  },
+  "dog1_region": {
+    "raw": {
+      "block_ids": [
+        7960
+      ],
+      "p": [
+        0.004
+      ],
+      "percentile": [
+        0.4657119571544999
+      ]
+    },
+    "p_rotation_raw": [
+      0.006993006993006993
+    ],
+    "graph": {
+      "block_ids": [
+        7960
+      ],
+      "p": [
+        0.053029
+      ],
+      "percentile": [
+        4.552334381185237
+      ]
+    },
+    "embedding": {
+      "block_ids": [
+        7960
+      ],
+      "p": [
+        0.014104
+      ],
+      "percentile": [
+        1.2690650832460124
+      ]
+    }
+  },
+  "rotation_focus_top": [
+    {
+      "block_id": 7053,
+      "chrom": 5,
+      "start": 7879198,
+      "nearest_gene": "AT5G23400",
+      "p_raw": 0.000363,
+      "p_rotation_raw": 0.000999
+    },
+    {
+      "block_id": 4867,
+      "chrom": 3,
+      "start": 21863539,
+      "nearest_gene": "AT3G59140",
+      "p_raw": 0.001075,
+      "p_rotation_raw": 0.000999
+    },
+    {
+      "block_id": 4866,
+      "chrom": 3,
+      "start": 21847285,
+      "nearest_gene": "AT3G59100",
+      "p_raw": 0.000583,
+      "p_rotation_raw": 0.000999
+    },
+    {
+      "block_id": 3681,
+      "chrom": 3,
+      "start": 6395425,
+      "nearest_gene": "AT3G18570",
+      "p_raw": 0.000929,
+      "p_rotation_raw": 0.000999
+    },
+    {
+      "block_id": 1995,
+      "chrom": 1,
+      "start": 29069551,
+      "nearest_gene": "AT1G77340",
+      "p_raw": 1e-06,
+      "p_rotation_raw": 0.000999
+    },
+    {
+      "block_id": 1626,
+      "chrom": 1,
+      "start": 23866431,
+      "nearest_gene": "AT1G64310",
+      "p_raw": 0.00024,
+      "p_rotation_raw": 0.001998
+    },
+    {
+      "block_id": 266,
+      "chrom": 1,
+      "start": 3969383,
+      "nearest_gene": "AT1G11750",
+      "p_raw": 0.000834,
+      "p_rotation_raw": 0.002997
+    },
+    {
+      "block_id": 5941,
+      "chrom": 4,
+      "start": 10848870,
+      "nearest_gene": "AT4G20040",
+      "p_raw": 0.000432,
+      "p_rotation_raw": 0.002997
+    },
+    {
+      "block_id": 4556,
+      "chrom": 3,
+      "start": 17625374,
+      "nearest_gene": "AT3G47780",
+      "p_raw": 0.00162,
+      "p_rotation_raw": 0.002997
+    },
+    {
+      "block_id": 3454,
+      "chrom": 3,
+      "start": 3312195,
+      "nearest_gene": "AT3G10595",
+      "p_raw": 0.000833,
+      "p_rotation_raw": 0.002997
+    }
+  ]
+}

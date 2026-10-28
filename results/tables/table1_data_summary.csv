@@ -1,0 +1,15 @@
+Item,Value
+Accessions with genotypes,"1,307"
+Accessions with DSDS50 phenotype,83
+SNP markers,"214,051"
+SNPs with MAF > 0.05 in 83 accessions,"202,747"
+LD-pruned SNPs for PCA/kinship,"9,245"
+PC1-PC5 variance explained,4.13% / 3.55% / 3.20% / 2.87% / 2.67%
+Haplotype blocks,"8,589"
+Median / 90th percentile block span,11.5 / 21.8 kb
+Graph edges (adjacency / LD),"11,592 (8,584 / 3,008)"
+Genes annotated (TAIR10/Araport11),"27,445"
+DSDS50 mean ± SD (range),43.1 ± 38.9 (0-189) days
+DSDS50 median (IQR),36.0 (13.0-60.5) days
+Pretraining accessions (train / validation),"1,176 / 131"
+Graph encoder embedding dimension,"16 (2 layers, 4 heads)"
